@@ -1,11 +1,9 @@
 # 🔎 Customer-segmentation-for-targeted-marketing-campaigns
 This project involves analyzing customer data from a CSV file containing information about bank account holders. 
 
-The primary goal is to segment customers into distinct clusters using Python's clustering algorithms, such as K-Means. These clusters will then be visualized in Power BI to identify unique customer groups based on shared characteristics. The insights derived from this analysis will enable the design of targeted marketing campaigns to meet the specific needs and preferences of each segment.
-
 
 ## 🏁 Objective
-The primary goal is to segment customers into distinct clusters using Python's clustering algorithms, such as K-Means. These clusters will then be visualized in Power BI to identify unique customer groups based on shared characteristics. The insights derived from this analysis will enable the design of targeted marketing campaigns to meet the specific needs and preferences of each segment.
+The primary goal is to segment customers into distinct clusters using Python's clustering algorithms, such as **K-Means**. These clusters will then be visualized in **Power BI** to identify unique customer groups based on shared characteristics. The insights derived from this analysis will enable the design of targeted marketing campaigns to meet the specific needs and preferences of each segment.
 
 ## 🌳 Project structure
 
